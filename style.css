@@ -1,0 +1,46 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    /*margem*/
+    margin-right: 30px;
+    margin-left:  30px;
+    margin-top: 30px;
+
+    /*texto em justificado*/
+    text-align: justify;
+
+
+}
+
+p{
+
+    font-size: 20px; /*tamanho da fonte de textos comuns*/
+    border: 2px solid ;
+}
+
+#titulo{  /*meu nome*/
+
+    font-size: 40px;
+    font-weight: bold;
+}
+
+a{ /*menu*/
+    
+    text-decoration: none; /*tira as partes feias do link*/
+    color: aliceblue;
+    margin-right: 50px; /*distanciamento dos botões*/
+    background:#000000;
+    font-size: 20px;
+    
+
+}
+
+img{
+
+   /*fundo com a minha cara*/
+   background-repeat: no-repeat;
+   border-radius: 100%;
+   margin-left: 80%;
+   
+}
